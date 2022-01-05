@@ -6,9 +6,6 @@
   "scripts": {
     "test": "jest"
   },
-  "hooks": {
-    "pre-commit": "lint-staged"
-  },
   "keywords": [],
   "author": "",
   "license": "ISC",
